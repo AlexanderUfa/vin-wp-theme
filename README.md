@@ -1,2 +1,3 @@
 # vin-wp-theme
-Тема для WordPress
+RU Тема для WordPress
+EN WordPress Theme
